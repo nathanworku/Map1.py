@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: map-downloader
+Version: 0.13
+Summary: Download map files required by gopher_series robot.
+Home-page: https://github.com/yotabits/map_downloader
+Author: Thomas Kostas
+Author-email: tkostas75@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7

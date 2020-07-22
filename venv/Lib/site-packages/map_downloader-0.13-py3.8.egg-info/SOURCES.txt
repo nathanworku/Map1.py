@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+bin/map_downloader
+map_downloader/__init__.py
+map_downloader/download.py
+map_downloader/opt_parser.py
+map_downloader.egg-info/PKG-INFO
+map_downloader.egg-info/SOURCES.txt
+map_downloader.egg-info/dependency_links.txt
+map_downloader.egg-info/not-zip-safe
+map_downloader.egg-info/requires.txt
+map_downloader.egg-info/top_level.txt

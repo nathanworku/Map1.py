@@ -1,0 +1,4 @@
+#!C:\Users\Neal.MIGUEL-PC\PycharmProjects\Map.py\venv\Scripts\python.exe
+from map_downloader import opt_parser
+
+opt_parser.main()

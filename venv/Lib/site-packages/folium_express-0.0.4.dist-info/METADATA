@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: folium-express
+Version: 0.0.4
+Summary: Folium wrapper to simplify spatial visualization and reduce the amount of code needed
+Home-page: https://github.com/a-noakes/folium_express
+Author: Alexis Noakes
+Author-email: alexis.noakes@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# Folium Express
+
+Folium Express is a wrapper around Folium allowing for spatial visualisations with fewer lines of code.
+
+## Installation
+
+pip install folium-express
+
+### Dependencies
+
+* numpy
+* pandas
+* geopandas
+* folium
+* branca
+* shapely
+* import json
+
+## Examples
+..
+

@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: folium-jsbutton
+Version: 0.1.0
+Summary: Add a button to a folium map that executes javascript code, by specifying a function in a python string that gets the button and map elements as parameters.
+Home-page: https://github.com/prinsherbert/folium-jsbutton
+Author: Herbert Kruitbosch
+Author-email: H.T.Kruitbosch@rug.nl
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
